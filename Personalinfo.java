@@ -15,3 +15,5 @@ return em;
 
 int phone (int ph)
 return ph;
+
+System.out.println("The personal info are displayed");
