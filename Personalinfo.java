@@ -16,4 +16,8 @@ return em;
 int phone (int ph)
 return ph;
 
+String status (String s)
+  return s;
+
 System.out.println("The personal info are displayed");
+
